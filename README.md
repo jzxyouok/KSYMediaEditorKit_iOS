@@ -85,7 +85,7 @@ SDK鉴权本身不会引入付费。
 ``` objective-c
 pod 'GPUImage', '~> 0.1.7'
 pod 'libksygpulive', '~> 2.4.0'
-pod 'KSYMediaEditorKit', '~> 0.7.4'
+pod 'KSYMediaEditorKit', '~> 1.1.1'
 pod 'Ks3SDK', '~> 1.7.2'
 ```
 
